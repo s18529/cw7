@@ -1,0 +1,6 @@
+Metoda :GET sciezka wywolania :/weatherforecast Body : Querystring :
+Metoda :GET sciezka wywolania :/favicon.ico Body : Querystring :
+Metoda :POST sciezka wywolania :/api/enrollments/promotions Body :{
+"Studies": "filozofia",
+"Semestr": 2
+} Querystring :
